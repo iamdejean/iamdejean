@@ -1,8 +1,6 @@
 <h1 align="left">Hello there! I am Jean Japheth Ezekiel</h1>
 <h3 align="left">a UI/UX Designer and a Front End Developer</h3>
 
-- 🔭 I’m actively building [ioHub](https://iohub.space)
-
 - 👯 Read More about me [Here](https://ogurinkabenjamin.com/about)
 
 - 👨‍💻 Some of my projects are available at [https://iamdejean.github.io/](https://iamdejean.github.io/)
